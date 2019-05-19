@@ -1,1 +1,1 @@
-exec(open('/home/pi/PICONFLEX2000/client/config.py').read())
+exec(open('/home/pi/PICONFLEX2000-CLIENT/config.py').read())
