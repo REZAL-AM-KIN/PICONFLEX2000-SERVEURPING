@@ -1,0 +1,1 @@
+print("Demarrage 'init.py'")
