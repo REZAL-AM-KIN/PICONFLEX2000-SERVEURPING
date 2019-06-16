@@ -9,3 +9,5 @@ print("Importation 'subprocess'")
 import subprocess
 print("Importation 'os'")
 import os
+print("Importation threading")
+import threading
